@@ -3,4 +3,5 @@
 + Rmarkdown      https://bookdown.org/yihui/rmarkdown/ <br>
 + Rmarkdown reference https://rmarkdown.rstudio.com/docs/ <br>
 + Rbookdown https://bookdown.org/
++ Rbookdown templates https://bookdownplus.netlify.app/portfolio/
 + National stattistcics https://geoportal.statistics.gov.uk/

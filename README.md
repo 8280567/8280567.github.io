@@ -4,7 +4,7 @@
 + Rmarkdown reference https://rmarkdown.rstudio.com/docs/ <br>
 + Rbookdown https://bookdown.org/
 + Rbookdown templates https://bookdownplus.netlify.app/portfolio/
++ flexdashboard https://rmarkdown.rstudio.com/flexdashboard/shiny.html#shiny_modules
 + National stattistcics https://geoportal.statistics.gov.uk/
 
-+ flexdashboard https://rmarkdown.rstudio.com/flexdashboard/shiny.html#shiny_modules
 

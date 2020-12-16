@@ -4,6 +4,7 @@
 |+ [CASA0005repo](https://andrewmaclachlan.github.io/CASA0005repo/)|https://andrewmaclachlan.github.io/CASA0005repo|
 |+ [Rmarkdown](https://bookdown.org/yihui/rmarkdown/)|https://bookdown.org/yihui/rmarkdown|
 |+ [Rmarkdown reference](https://rmarkdown.rstudio.com/docs/)|https://rmarkdown.rstudio.com/docs|
+|+ [Rmarkdown Cookbook](https://bookdown.org/yihui/rmarkdown-cookbook/)|https://bookdown.org/yihui/rmarkdown-cookbook/|
 |+ [Rbookdown](https://bookdown.org/)|https://bookdown.org/|
 |+ [Rbookdown templates](https://bookdownplus.netlify.app/portfolio/)|https://bookdownplus.netlify.app/portfolio|
 |+ [Rbookdownplus](https://github.com/pzhaonet/bookdownplus)|https://github.com/pzhaonet/bookdownplus|
